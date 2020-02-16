@@ -1,0 +1,28 @@
+_repo: De-Bonte-Wei_61381
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Jan Voerman jr.
+    gutenberg_agent_id: '51392'
+    url: http://www.gutenberg.org/2009/agents/51392
+  - agent_name: Oort, Johan Michiel (Jan) van
+    gutenberg_agent_id: '51393'
+    url: http://www.gutenberg.org/2009/agents/51393
+creator:
+  author:
+    agent_name: Thijsse, Jacobus Pieter
+    gutenberg_agent_id: '51391'
+    url: http://www.gutenberg.org/2009/agents/51391
+description: ''
+gutenberg_issued: '2020-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61381'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De Bonte Wei
+url: http://www.gutenberg.org/ebooks/61381
