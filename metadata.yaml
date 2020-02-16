@@ -8,12 +8,17 @@ contributor:
   - agent_name: Oort, Johan Michiel (Jan) van
     gutenberg_agent_id: '51393'
     url: http://www.gutenberg.org/2009/agents/51393
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thijsse, Jacobus Pieter
     gutenberg_agent_id: '51391'
     url: http://www.gutenberg.org/2009/agents/51391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61381#De-Bonte-Wei
 gutenberg_issued: '2020-02-11'
 gutenberg_type: Text
 identifiers:
